@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.963b6317.chunk.js",
+    "main.js.map": "/static/js/main.963b6317.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.edb82d6c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.edb82d6c.js.map",
+    "static/js/2.8a00a5ce.chunk.js": "/static/js/2.8a00a5ce.chunk.js",
+    "static/js/2.8a00a5ce.chunk.js.map": "/static/js/2.8a00a5ce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31c98a63278871644fe335202b790d98.js": "/precache-manifest.31c98a63278871644fe335202b790d98.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.8a00a5ce.chunk.js.LICENSE.txt": "/static/js/2.8a00a5ce.chunk.js.LICENSE.txt",
+    "static/media/child.svg": "/static/media/child.e485817f.svg",
+    "static/media/communicate.svg": "/static/media/communicate.ba5dfdd1.svg",
+    "static/media/healthcare.svg": "/static/media/healthcare.deaa4fa4.svg",
+    "static/media/jj.webp": "/static/media/jj.3a007c8b.webp",
+    "static/media/oo.png": "/static/media/oo.a69a1514.png",
+    "static/media/reminder.svg": "/static/media/reminder.f9c92da1.svg",
+    "static/media/svg-1.svg": "/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.d4846e11.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb82d6c.js",
+    "static/js/2.8a00a5ce.chunk.js",
+    "static/js/main.963b6317.chunk.js"
+  ]
+}
